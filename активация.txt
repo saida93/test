@@ -1,0 +1,10 @@
+0. Закрыть IDE.
+
+1. Скопировать папку jetbra в удобное место без пробелов и кириллицы в пути.
+
+2. В файл C:\Program Files\JetBrains\PyCharm 2022.1.3\bin\pycharm64.exe.vmoptions добавить строку с путём к файлу ja-netfilter.jar:
+-javaagent:C:\path\to\file\ja-netfilter.jar=jetbrains
+
+(   -javaagent:C:\jetbrains\pycharm\jetbra\ja-netfilter.jar=jetbrains   )
+
+3. Запустить IDE и активировать приложенным ключом.
