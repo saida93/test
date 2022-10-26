@@ -8,3 +8,4 @@
 (   -javaagent:C:\jetbrains\pycharm\jetbra\ja-netfilter.jar=jetbrains   )
 
 3. Запустить IDE и активировать приложенным ключом.
+4. updated
